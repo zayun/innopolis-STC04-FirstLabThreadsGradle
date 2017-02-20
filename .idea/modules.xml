@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/firstLabThreadsGradleEdition.iml" filepath="$PROJECT_DIR$/.idea/modules/firstLabThreadsGradleEdition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/firstLabThreadsGradleEdition_main.iml" filepath="$PROJECT_DIR$/.idea/modules/firstLabThreadsGradleEdition_main.iml" group="firstLabThreadsGradleEdition" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/firstLabThreadsGradleEdition_test.iml" filepath="$PROJECT_DIR$/.idea/modules/firstLabThreadsGradleEdition_test.iml" group="firstLabThreadsGradleEdition" />
+    </modules>
+  </component>
+</project>
